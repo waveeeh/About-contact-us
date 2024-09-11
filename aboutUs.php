@@ -326,19 +326,19 @@
       <div class="grid grid-cols-4 gap-8 mb-8">
         <img src="" 
           alt="" 
-          class="w-[309px] h-[420px] rounded-[17px] object-cover">
+          class="w-[309px] h-[420px] rounded-2xl object-cover">
 
         <img src="" 
           alt="" 
-          class="w-[309px] h-[420px] rounded-[17px] object-cover">
+          class="w-[309px] h-[420px] rounded-2xl object-cover">
 
         <img src="" 
           alt="" 
-          class="w-[309px] h-[420px] rounded-[17px] object-cover">
+          class="w-[309px] h-[420px] rounded-2xl object-cover">
 
         <img src="" 
           alt="" 
-          class="w-[309px] h-[420px] rounded-[17px] object-cover">
+          class="w-[309px] h-[420px] rounded-2xl object-cover">
       </div>
 
       <p class="text-2xl font-medium text-[#4A4848] text-center w-4/5 py-10">

@@ -43,50 +43,50 @@
 
         <div class="flex flex-col lg:flex-row mt-10">
         
-            <div class="bg-[#F7F7F7] w-full lg:w-[668px] h-auto lg:h-[877px] rounded-[15px] shadow-lg p-10 mb-10 lg:mb-0">
-                <h2 class="text-[#0E0E0E] font-semibold text-[30px] lg:text-[40px]">
+            <div class="bg-[#F7F7F7] w-full lg:w-[668px] h-auto lg:h-[877px] rounded-2xl shadow-lg p-10 mb-10 lg:mb-0">
+                <h2 class="text-[#0E0E0E] font-semibold text-3xl lg:text-4xl">
                     Let's Connect, Drop Us a Message
                 </h2>
-                <p class="text-[#0F0F0F] text-[20px] lg:text-[24px] font-light mt-4">
+                <p class="text-[#0F0F0F] text-xl lg:text-xl font-light mt-4">
                     Need help or have feedback? We're here for you. Reach out, and we'll respond shortly.
                 </p>
                 <hr class="border-0 h-[1px] bg-[#000000] w-[90%] lg:w-[572px] my-10 mx-auto" />
 
                 <div class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-4 mt-16">
                     <div>
-                        <label class="block text-[18px] text-[#0E0E0E]">First Name</label>
+                        <label class="block text-lg text-[#0E0E0E]">First Name</label>
                         <input 
                             type="text" 
                             placeholder="First Name" 
-                            class="w-full lg:w-[267px] h-[44px] rounded-[6px] border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-[18px] mt-2" />
+                            class="w-full lg:w-[267px] h-[44px] rounded-md border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-lg mt-2" />
                     </div>
                     <div>
-                        <label class="block text-[18px] text-[#0E0E0E]">Last Name</label>
+                        <label class="block text-lg text-[#0E0E0E]">Last Name</label>
                         <input 
                             type="text" 
                             placeholder="Last Name" 
-                            class="w-full lg:w-[267px] h-[44px] rounded-[6px] border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-[18px] mt-2" />
+                            class="w-full lg:w-[267px] h-[44px] rounded-md border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-lg mt-2" />
                     </div>
                 </div>
 
                 <div class="mt-6">
-                    <label class="block text-[18px] text-[#0E0E0E]">Email</label>
+                    <label class="block text-lg text-[#0E0E0E]">Email</label>
                     <input 
                         type="email" 
                         placeholder="Email Address" 
-                        class="w-full lg:w-[548px] h-[44px] rounded-[6px] border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-[18px] mt-2" />
+                        class="w-full lg:w-[548px] h-[44px] rounded-md border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-lg mt-2" />
                 </div>
 
                 <div class="my-10">
-                    <label class="block text-[18px] text-[#0E0E0E]">Message</label>
+                    <label class="block text-lg text-[#0E0E0E]">Message</label>
                     <textarea 
                         placeholder="Leave us a message" 
-                        class="w-full lg:w-[548px] h-[120px] rounded-[6px] border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-[18px] mt-2"></textarea>
+                        class="w-full lg:w-[548px] h-[120px] rounded-md border border-[#D0C7C7] px-3 py-2 placeholder-[#BFB6B6] text-lg mt-2"></textarea>
                 </div>
 
                 <div class="flex items-center space-x-3">
                     <input type="checkbox" class="h-6 w-6 rounded border-[#D0C7C7] checked:bg-[#000000]" />
-                    <label class="text-[18px] text-[#0E0E0E]">
+                    <label class="text-lg text-[#0E0E0E]">
                         I acknowledge and accept our clear privacy policy.
                     </label>
                 </div>
@@ -121,8 +121,8 @@
                         </svg>
                     </div>
                     <div>
-                        <h3 class="font-medium text-[24px] text-[#000000]">Chat to Us</h3>
-                        <p class="text-[20px] text-[#0F0F0F]">interlink@gmail.com</p>
+                        <h3 class="font-medium text-2xl text-[#000000]">Chat to Us</h3>
+                        <p class="text-xl text-[#0F0F0F]">interlink@gmail.com</p>
                     </div>
                 </div>
 
@@ -142,8 +142,8 @@
                         </svg>
                     </div>
                     <div>
-                        <h3 class="font-medium text-[24px] text-[#000000]">Call Us</h3>
-                        <p class="text-[20px] text-[#0F0F0F]">+6397 928 2938</p>
+                        <h3 class="font-medium text-2xl text-[#000000]">Call Us</h3>
+                        <p class="text-xl text-[#0F0F0F]">+6397 928 2938</p>
                     </div>
                 </div>
 
@@ -168,8 +168,8 @@
                         </svg>
                     </div>
                     <div>
-                        <h3 class="font-medium text-[24px] text-[#000000]">Visit Us</h3>
-                        <p class="text-[20px] text-[#0F0F0F]">CICT, NEUST, Sumacab, Cabanatuan City</p>
+                        <h3 class="font-medium text-2xl text-[#000000]">Visit Us</h3>
+                        <p class="text-xl text-[#0F0F0F]">CICT, NEUST, Sumacab, Cabanatuan City</p>
                     </div>
                 </div>
             </div>
